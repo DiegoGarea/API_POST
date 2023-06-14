@@ -1,0 +1,11 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "server para pruebas",
+  "main": "./scripts/script",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}

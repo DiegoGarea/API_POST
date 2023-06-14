@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "abc@hotmail.com",
+      "nombre": "Test Perez Hoffman",
+      "telefono": "333-222-111",
+      "id": 1
+    },
+    {
+      "email": "hola@hotmail.com",
+      "nombre": "Hola Buen Dia",
+      "telefono": "111-222-333",
+      "id": 2
+    },
+    {
+      "email": "Erupcion@hotmail.com",
+      "nombre": "Figaro Figarooo",
+      "telefono": "444-4444-4444",
+      "id": 3
+    },
+    {
+      "email": "nombre@gmail.com",
+      "nombre": "Fulanito",
+      "telefono": "777-7777-7777",
+      "id": 4
+    }
+  ]
+}
